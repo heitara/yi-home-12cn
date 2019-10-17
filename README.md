@@ -21,3 +21,5 @@ If you have any question or problems feel free to get in touch with me.
 # Extra links with hacks for other models
 
 https://github.com/shadow-1/yi-hack-v3 __!Yi Home is not supported!__
+
+http://xiaoyi.querex.be/firmwares/ - hacks that should work with CN hardware (not tested)
